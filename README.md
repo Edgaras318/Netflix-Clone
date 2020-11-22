@@ -1,2 +1,2 @@
 # Netflix-Clone
-Netflix clone: http://ed-netflix.herokuapp.com
+Netflix clone: https://ed-netflix-clone.web.app/
